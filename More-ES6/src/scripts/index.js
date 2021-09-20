@@ -1,1 +1,1 @@
-console.log("Hi....")
+import "../styles/index.scss"

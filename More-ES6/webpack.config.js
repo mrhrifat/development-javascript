@@ -1,3 +1,4 @@
+
 const path = require('path')
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 require('@babel/register')
@@ -15,11 +16,26 @@ module.exports = {
     //Module
     module: {
         rules: [
+
+            //JS
             {
                 test: /\.js$/,
                 exclude: /node_modules/,
                 use: ['babel-loader']
-            }
+            },
+
+            //SASS
+            {
+                test: /\.scss$/,
+                use: [
+                    // Creates `style` nodes from JS strings
+                    "style-loader",
+                    // Translates CSS into CommonJS
+                    "css-loader",
+                    // Compiles Sass to CSS
+                    "sass-loader",
+                ],
+            },
         ]
     },
 
