@@ -3,6 +3,6 @@ import "../styles/index.scss"
 
 // JavaScript
 import "./ErrorInJS"
-import "./AsynchronusJS"
+import "./AsynchronousJS"
 import "./Promise"
 import "./Async"
