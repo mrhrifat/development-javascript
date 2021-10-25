@@ -201,3 +201,12 @@
 // // Race
 // Promise.race(promiseArr)
 //     .then(res => console.log(res))
+
+
+// // Promise with Map
+// fetch(`https://jsonplaceholder.typicode.com/users`)
+//   .then(response => response.json())
+//   .then(json =>{
+//     let e=json.map(v=>v.name)
+//     console.log(e)
+//   })
