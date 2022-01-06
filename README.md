@@ -1,5 +1,5 @@
-## Advance JavaScript
-Before [Advance JavaScript](https://github.com/mrhrifat/advance-javascript). First we need to know, 
+## Development JavaScript
+Before [Development JavaScript](https://github.com/mrhrifat/development-javascript). First we need to know, 
 - What is JavaScript JavaScript?
     - JavaScript is the most popular Programming language in the world. Over [97%](https://en.wikipedia.org/wiki/JavaScript#cite_note-deployedstats-12) of websites use JavaScript on the client side for web page behavior, often incorporating third-party libraries. 
 - Why JavaScript 
@@ -7,7 +7,11 @@ Before [Advance JavaScript](https://github.com/mrhrifat/advance-javascript). Fir
 
 Learn more about [JavaScript](https://en.wikipedia.org/wiki/JavaScript) 
 
-**Caution:** If you don't know **Basic or Advance JavaScript**. Then you won't be able to Understand **ES6 or Advance JavaScript**. But why fear, when the **Basic & Advance JavaScript** repository is [here](https://github.com/mrhrifat/javascript-all-to-know). Go & first learn from it. Then you'll be able to learn ES6.
+**Note:** If you don't know **Basic or Advance JavaScript**. Then you won't be able to Understand **ES6 or Advance/Development JavaScript**. But don't fear, learn **Core to Advance JavaScript** from the repository is given below:
+- [JavaScript All You Need To Know](https://github.com/mrhrifat/javascript-all-to-know)
+- [Advance JavaScript / ES6](https://github.com/mrhrifat/advance-javascript)
+
+So, let's start learning.
 
 ## Motive
 It will be helpful for  any future Programmer, who want to learn ES6 or Advance JavaScript  by practice & solving problem. Also for those who won't understand any hard example of any Code Statement. It will be a good experience to for Programmers.
