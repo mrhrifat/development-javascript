@@ -29,7 +29,20 @@ JavaScript ES6 brings new syntax and new awesome features to make your code more
     - [Fetch API](https://github.com/mrhrifat/development-javascript/blob/e6fd5fc2d83720954839ca8cc6df5762b3c87855/ES6%2B/src/scripts/Promise.js#L65)
     - [Async Await](https://github.com/mrhrifat/development-javascript/blob/e6fd5fc2d83720954839ca8cc6df5762b3c87855/ES6%2B/src/scripts/Async.js)
 
+## How To Contribute
+I will be open to any contribution. If you have any idea, please let me know. I will be happy to help you.
+1. Fork this repository
+2. Clone on your local environment with IDE.
+3. Makes your changes to code.
+4. Commit your changes.
+5. Create a new pull request
+6. Wait for the pull request to be merged.
 
+**Note:** If you want to do a major changes than first create an Issue.
+ 
+
+## License
+This project is licensed under [GPL-3.0](https://github.com/mrhrifat/development-javascript/blob/master/LICENSE.md).
     
 
 
